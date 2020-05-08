@@ -65,51 +65,62 @@ section1 词汇
 14. parasite  [ˈpærəsaɪt] 寄生生物; 寄生虫; 寄生植物; 依赖他人过活者;
 15. toxin  [ˈtɒksɪn] 毒素
 16. seminar  [ˈsemɪnɑː(r)] 研讨课; 研讨会; 培训会;
+17. 
+
+![image-20200506223155752](C:\Users\PJ\AppData\Roaming\Typora\typora-user-images\image-20200506223155752.png)
+
+
+
+![image-20200507213446033](C:\Users\PJ\AppData\Roaming\Typora\typora-user-images\image-20200507213446033.png)
+
+
+
+![image-20200507215243806](C:\Users\PJ\AppData\Roaming\Typora\typora-user-images\image-20200507215243806.png)
 
 ## 阅读
 
-| 序号 | 自答 | 答案 | 错因 | 总结 |
-| :--- | ---- | ---- | ---- | ---- |
-| 1    |      |      |      |      |
-| 2    |      |      |      |      |
-| 3    |      |      |      |      |
-| 4    |      |      |      |      |
-| 5    |      |      |      |      |
-| 6    |      |      |      |      |
-| 7    |      |      |      |      |
-| 8    |      |      |      |      |
-| 9    |      |      |      |      |
-| 10   |      |      |      |      |
-| 11   |      |      |      |      |
-| 12   |      |      |      |      |
-| 13   |      |      |      |      |
-| 14   |      |      |      |      |
-| 15   |      |      |      |      |
-| 16   |      |      |      |      |
-| 17   |      |      |      |      |
-| 18   |      |      |      |      |
-| 19   |      |      |      |      |
-| 20   |      |      |      |      |
-| 21   |      |      |      |      |
-| 22   |      |      |      |      |
-| 23   |      |      |      |      |
-| 24   |      |      |      |      |
-| 25   |      |      |      |      |
-| 26   |      |      |      |      |
-| 27   |      |      |      |      |
-| 28   |      |      |      |      |
-| 29   |      |      |      |      |
-| 30   |      |      |      |      |
-| 31   |      |      |      |      |
-| 32   |      |      |      |      |
-| 33   |      |      |      |      |
-| 34   |      |      |      |      |
-| 35   |      |      |      |      |
-| 36   |      |      |      |      |
-| 37   |      |      |      |      |
-| 38   |      |      |      |      |
-| 39   |      |      |      |      |
-| 40   |      |      |      |      |
+| 序号 | 自答                  | 答案           | 错因                                                         | 总结 |
+| :--- | --------------------- | -------------- | ------------------------------------------------------------ | ---- |
+| 1    | F                     |                |                                                              |      |
+| 2    | F                     | NG             |                                                              |      |
+| 3    | NG                    | F              |                                                              |      |
+| 4    | T                     |                |                                                              |      |
+| 5    | NG                    |                |                                                              |      |
+| 6    | T                     |                |                                                              |      |
+| 7    | F                     | NG             |                                                              |      |
+| 8    | the rich              |                |                                                              |      |
+| 9    | colour fabric         | commercial     | 同意替换 possibility=>potential                              |      |
+| 10   | Tyrian Purple         | mauve          | 问的是 finally，而不是originally                             |      |
+| 11   | Robert Pullar         |                |                                                              |      |
+| 12   | France                |                |                                                              |      |
+| 13   | malaria               |                |                                                              |      |
+| 14   | 4                     |                | rules 对应 assumptions                                       |      |
+| 15   | 3                     | 7              | 第二句话为本段大意，且从 likely、guess、perhaps 判断是 likelihood |      |
+| 16   | 1                     |                | seek 对应 search                                             |      |
+| 17   | 2                     |                | response 对应 reply                                          |      |
+| 18   | several billion years |                |                                                              |      |
+| 19   | 1000 to 3000MHz       | radio (signal) | searching for 同意替换 looking for，同时，题目问的是 kind ，而不是频率 |      |
+| 20   | 1000                  |                | most powerful 对应 largest                                   |      |
+| 21   | T                     |                | **看清楚是让写YES还是TRUE**                                  |      |
+| 22   | NG                    | YES            | **resemble** 看起来像; 显得像，对应 like。find a life form 对应 looking for a life form |      |
+| 23   | T                     | NG             | A 做过 C 工作，B 做过 C 工作，不代表 A、B合作做过 C 工作     |      |
+| 24   | NG                    | F              | 不想做瞎写的                                                 |      |
+| 25   | F                     | NG             |                                                              |      |
+| 26   | F                     |                |                                                              |      |
+| 27   |                       |                |                                                              |      |
+| 28   |                       |                |                                                              |      |
+| 29   |                       |                |                                                              |      |
+| 30   |                       |                |                                                              |      |
+| 31   |                       |                |                                                              |      |
+| 32   |                       |                |                                                              |      |
+| 33   |                       |                |                                                              |      |
+| 34   |                       |                |                                                              |      |
+| 35   |                       |                |                                                              |      |
+| 36   |                       |                |                                                              |      |
+| 37   |                       |                |                                                              |      |
+| 38   |                       |                |                                                              |      |
+| 39   |                       |                |                                                              |      |
+| 40   |                       |                |                                                              |      |
 
 ## 写作
 
